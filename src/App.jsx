@@ -16,7 +16,7 @@ function App() {
         <HomeIcon color="success" />
         <HomeIcon color="action" />
         <HomeIcon color="disabled" />
-    </Stack>
+      </Stack>
     </>
   )
 }
